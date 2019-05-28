@@ -1,1 +1,6 @@
-# MyProjectInThisWorld
+此项目是用c#写的修改windows桌面壁纸项目
+整个项目在widows10中是可以跑通的
+
+项目引用了user32 包
+
+功能为 上传图片随机选择图片替换当前桌面壁纸
