@@ -1,0 +1,14 @@
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\bin\Debug\ModifytTheDesktopClient.exe.config
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\bin\Debug\ModifytTheDesktopClient.exe
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\bin\Debug\ModifytTheDesktopClient.pdb
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.csprojAssemblyReference.cache
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.Form1.resources
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.Properties.Resources.resources
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.csproj.GenerateResource.cache
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.csproj.CoreCompileInputs.cache
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.exe
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.pdb
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\bin\Debug\ModifytTheDesktopClient.exe.manifest
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\bin\Debug\ModifytTheDesktopClient.application
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.exe.manifest
+G:\新建文件夹\UpdateWindowsHome\ModifytTheDesktopClient\obj\Debug\ModifytTheDesktopClient.application
